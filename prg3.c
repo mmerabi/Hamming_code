@@ -1,3 +1,10 @@
+/* 
+Michael Merabi
+Programming assignment #3 - Hamming Code
+Comp - 222 - Fall 2018
+Meeting time - Tues/Thurs 8:00am
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
