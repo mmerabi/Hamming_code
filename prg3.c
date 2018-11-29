@@ -1,10 +1,3 @@
-/* 
-Michael Merabi
-Programming assignment #3 - Hamming Code
-Comp - 222 - Fall 2018
-Meeting time - Tues/Thurs 8:00am
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -84,7 +77,7 @@ void check(){
 
 //startup display
 void display() {
-    printf("\nMichael Merabi\n"
+    printf("\Enter your selection\n"
            "--------------------------------\n"
            "1. Enter Parameters\n"
            "2. Enter Hamming Code\n"
@@ -95,10 +88,7 @@ void display() {
 //printout that follows
 int main(){
     int input;
-    printf("\n\n***Program Written by Michael Merabi\n"
-           "***Programming Assignment 3: Hamming Code\n"
-           "***Comp 222 – Fall 2018\n"
-           "***Class Meeting Time: 8:00 – 9:15\n\n");
+
 
 //selection menu inputs
     while (1) {
